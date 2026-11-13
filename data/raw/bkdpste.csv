@@ -1,0 +1,286 @@
+c,Nama Dosen,Kode MK,Mata Kuliah,SKS,T,P,Ket
+1,"Prof. Dr. Ahmad Saudi Samosir,S.T.,M.T.",EET620410,Perancangan Konverter Elektronika Daya,2,2,0,PSTE
+,,EET620410,Perancangan Konverter Elektronika Daya - MBKM,2,2,0,PSTE
+2,"Dr. Ing. Ardian Ulvan, S.T., M.Sc.",EET620215,Praktikum Dasar Sistem dan Jaringan Telekomunikasi C,1,0,1,PSTE
+,,EET620215,Praktikum Dasar Sistem dan Jaringan Telekomunikasi B,1,0,1,PSTE
+,,EET620215,Praktikum Dasar Sistem dan Jaringan Telekomunikasi A,1,0,1,PSTE
+,,EET620346,Praktikum Jaringan Telekomunikasi,1,0,1,PSTE
+,,EET620450,Teknologi Radar,2,1,0,PSTE
+,,EET620452,Sistem Penginderaan Jauh,2,2,0,PSTE
+,,EET620458,Softswitch,2,2,0,PSTE
+3,"Dr.Eng. Ageng Sadnowo, S.T.,M.T.",EET620210,Pengetahuan Lingkungan B,2,"0,6666666667",0,PSTE
+,,EET620210,Pengetahuan Lingkungan A,2,"0,6666666667",0,PSTE
+,,EET620210,Pengetahuan Lingkungan D,2,"0,6666666667",0,PSTE
+,,EET620210,Pengetahuan Lingkungan C,2,"0,6666666667",0,PSTE
+,,ELT625108,Probabilitas dan Statistik B,3,1,0,PSTE
+,,ELT625108,Probabilitas dan Statistik C,3,1,0,PSTE
+,,ELT625108,Probabilitas dan Statistik A,3,1,0,PSTE
+,,ELT625108,Probabilitas dan Statistik D,3,1,0,PSTE
+4,"Dr.Eng.Charles R Harahap,S.T.,M.T.",EET620216,Dasar Tenaga Listrik C,3,1,0,PSTE
+,,EET620334,Kendali dan Stabilitas Motor Listrik B,2,1,0,PSTE
+,,EET620334,Kendali dan Stabilitas Motor Listrik A,2,1,0,PSTE
+,,EET620334,Kendali dan Stabilitas Motor Listrik -MBKM,2,1,0,PSTE
+,,EET620216,Dasar Tenaga Listrik A,3,1,0,PSTE
+,,EET620216,Dasar Tenaga Listrik D,3,1,0,PSTE
+,,EET620216,Dasar Tenaga Listrik B,3,1,0,PSTE
+,,EET620411,Sistem Transportasi Listrik,2,1,0,PSTE
+,,EET620415,Perancangan Kendali Motor-Motor Listrik Berbasis FPGA,2,2,0,PSTE
+5,"Dr.Eng. Dikpride Despa, S.T., M.T.",EET620329,Metodologi Penelitian TTL B,2,2,0,PSTE
+,,EET620329,Metodologi Penelitian TTL A,2,2,0,PSTE
+,,EET620329,Metodologi Penelitian TTL - MBKM,2,2,0,PSTE
+,,EET620419,Pemantauan dan Kendali Sistem Tenaga,2,1,0,PSTE
+6,"Dr. Eng. Diah Permata, S.T.,M.T.",EET620333,Koordinasi isolasi B,2,1,0,PSTE
+,,EET620333,Koordinasi isolasi A,2,1,0,PSTE
+,,EET620333,Koordinasi isolasi - MBKM,2,1,0,PSTE
+,,EET620112,Rangkaian Listrik 1,3,"1,5",0,PSTE
+,,EET620432,Kesesuaian Medan Elektromagnetik,2,2,0,PSTE
+7,"Dr. Eng. Endah Komalasari, S.T., M.T.",EET620212,Metode Numerik B,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik D,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik A,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik C,2,"0,5",0,PSTE
+,,EET620217,Praktikum Dasar Tenaga Listrik A,1,0,"0,5",PSTE
+,,EET620217,Praktikum Dasar Tenaga Listrik B,1,0,"0,5",PSTE
+,,EET620217,Praktikum Dasar Tenaga Listrik C,1,0,"0,5",PSTE
+,,EET620417,Aplikasi Elektronika Daya Pada Kualitas Daya Listrik,2,1,0,PSTE
+,,EET620417,Aplikasi Elektronika Daya Pada Kualitas Daya Listrik - MBKM,2,1,0,PSTE
+,,EET620413,Pemodelan dan Simulasi Motor-Motor Listrik,2,1,0,PSTE
+,,EET620334,Kendali dan Stabilitas Motor Listrik B,2,1,0,PSTE
+,,EET620334,Kendali dan Stabilitas Motor Listrik A,2,1,0,PSTE
+,,EET620334,Kendali dan Stabilitas Motor Listrik -MBKM,2,1,0,PSTE
+8,"Dr. Eng. F.X Arinto Setyawan,St.,Mt",EET620338,Sistem Tertanam,2,"0,6666666667",0,PSTE
+,,EEC616370,Embedded System - ST,3,1,0,PSTE
+,,EET620339,Prak. Sistem Tertanam,1,0,1,PSTE
+,,EET620442,Pengolahan Citra,2,1,0,PSTE
+,,EET620329,Metodologi Penelitian Elkaken,2,1,0,PSTE
+9,"Dr. Eng., Helmy Fitriawan, S.T, M.Sc.",EET620213,Sinyal dan Sistem C,3,1,0,PSTE
+,,EET620213,Sinyal dan Sistem B,3,1,0,PSTE
+,,EET620213,Sinyal dan Sistem A,3,1,0,PSTE
+,,EET620213,Sinyal dan Sistem D,3,1,0,PSTE
+10,"Dr. Herman H Sinaga, S. T., M. T.",EET620211,Matematika Teknik 2 B,3,1,0,PSTE
+,,EET620211,Matematika Teknik 2 D,3,1,0,PSTE
+,,EET620211,Matematika Teknik 2 A,3,1,0,PSTE
+,,EET620416,Tegangan Tinggi Arus Searah,2,1,0,PSTE
+,,EET620211,Matematika Teknik 2 C,3,1,0,PSTE
+,,EET620433,Transmisi Daya Arus Searah,2,1,0,PSTE
+,,ELT625106,Matematika 2 A,3,1,0,PSTE
+,,EET620333,Koordinasi isolasi B,2,1,0,PSTE
+,,EET620333,Koordinasi isolasi A,2,1,0,PSTE
+,,EET620333,Koordinasi isolasi - MBKM,2,1,0,PSTE
+,,ELT625106,Matematika 2 C,3,1,0,PSTE
+,,ELT625106,Matematika 2 D,3,1,0,PSTE
+,,ELT625106,Matematika 2 B,3,1,0,PSTE
+,,EET620434,Bahan Isolasi Ramah Lingkungan,2,1,0,PSTE
+11,"Herlinawati, S. T., M. T.",ELT625106,Matematika 2 A,3,1,0,PSTE
+,,ELT625106,Matematika 2 C,3,1,0,PSTE
+,,ELT625106,Matematika 2 D,3,1,0,PSTE
+,,ELT625106,Matematika 2 B,3,1,0,PSTE
+,,EET620492,Elektronika Komunikasi,2,1,0,PSTE
+,,EET620211,Matematika Teknik 2 B,3,1,0,PSTE
+,,EET620211,Matematika Teknik 2 D,3,1,0,PSTE
+,,EET620211,Matematika Teknik 2 A,3,1,0,PSTE
+,,EET620211,Matematika Teknik 2 C,3,1,0,PSTE
+12,"Herri Gusmedi, S.T., M.T.",EET620330,Manajemen Proyek dan K3 D,2,1,0,PSTE
+,,EET620330,Manajemen Proyek dan K3 C,2,1,0,PSTE
+,,EET620330,Manajemen Proyek dan K3 B,2,1,0,PSTE
+,,EET620330,Manajemen Proyek dan K3 A,2,1,0,PSTE
+,,EET620423,Keandalan Sistem Tenaga ,2,1,0,PSTE
+,,EET620423,Keandalan Sistem Tenaga - MBKM,2,1,0,PSTE
+13,"Khairudin, S.T., M.Sc., Ph.D. Eng.",EET620331,Sistem Proteksi B,3,3,0,PSTE
+,,EET620331,Sistem Proteksi A,3,3,0,PSTE
+,,EET620331,Sistem Proteksi - MBKM,3,3,0,PSTE
+,,EET620418,Smart Building dan otomasi,2,1,0,PSTE
+,,EET620418,Smart Building dan otomasi - MBKM,2,1,0,PSTE
+,,EET620421,Perencanaan Pengembangan Sistem Tenaga,2,2,0,PSTE
+,,EET620421,Perencanaan Pengembangan Sistem Tenaga - MBKM,2,2,0,PSTE
+14,"Dr.Eng. Lukmanul Hakim, S.T., M.Sc.",ELT625110,Algoritma dan Pemrograman D,3,"1,5",0,PSTE
+,,ELT625108,Probabilitas dan Statistik B,3,1,0,PSTE
+,,ELT625110,Algoritma dan Pemrograman B,3,"1,5",0,PSTE
+,,ELT625108,Probabilitas dan Statistik C,3,1,0,PSTE
+,,ELT625108,Probabilitas dan Statistik A,3,1,0,PSTE
+,,ELT625110,Algoritma dan Pemrograman C,3,"1,5",0,PSTE
+,,ELT625108,Probabilitas dan Statistik D,3,1,0,PSTE
+,,ELT625110,Algoritma dan Pemrograman A,3,"1,5",0,PSTE
+,,EET620426,Aliran Daya Optimal dan Penerapannya,2,1,0,PSTE
+15,"Dr. Ing. Melvi, S.T., M.T.",EET620342,Antena dan Propagasi,3,"1,5",0,PSTE
+,,EET620329,Metodologi Penelitian Telti,2,1,0,PSTE
+,,EET620344,Teknologi dan Komunikasi Data Broadband,3,3,0,PSTE
+,,EET620453,Perancangan dan Aplikasi Antena,2,1,0,PSTE
+,,EET620491,AI dan Perangkat IoT,2,1,0,PSTE
+,,EET620454,Virtualisasi dan Keamanan Jaringan,2,1,0,PSTE
+,,EET620465,Teknologi Multimedia,2,1,0,PSTE
+,,EET620450,Teknologi Radar,2,1,0,PSTE
+,,EET620210,Pengetahuan Lingkungan B,2,"0,6666666667",0,PSTE
+,,EET620210,Pengetahuan Lingkungan A,2,"0,6666666667",0,PSTE
+,,EET620210,Pengetahuan Lingkungan D,2,"0,6666666667",0,PSTE
+,,EET620210,Pengetahuan Lingkungan C,2,"0,6666666667",0,PSTE
+16,"Misfa Susanto,S.T.,M.Sc., Ph.D.",EET620219,Medan Elektromagnetik Telekomunikasi,2,1,0,PSTE
+,,EET620214,Dasar Sistem dan Jaringan Telekomunikasi B,3,"1,5",0,PSTE
+,,EET620342,Pemodelan dan Simulasi Sistem Komunikasi,3,"1,5",0,PSTE
+,,EET620345,Komunikasi Nirkabel,3,3,0,PSTE
+17,"Dr. Eng. Nining Purwasih, S.T., M.T.",EET620332,Sistem Isolasi B ,2,1,0,PSTE
+,,EET620332,Sistem Isolasi A ,2,1,0,PSTE
+,,EET620332,Sistem Isolasi - MBKM,2,1,0,PSTE
+,,EET620434,Bahan Isolasi Ramah Lingkungan,2,1,0,PSTE
+,,EET620434,Bahan Isolasi Ramah Lingkungan - MBKM,2,1,0,PSTE
+,,EET620431,Pentanahan Sistem Tenaga,2,1,0,PSTE
+,,ELT625104,Kalkulus  2 A,3,1,0,PSTE
+,,ELT625104,Kalkulus  2 B,3,1,0,PSTE
+,,ELT625104,Kalkulus  2 D,3,1,0,PSTE
+,,ELT625104,Kalkulus  2 C,3,1,0,PSTE
+18,"Noer Soedjarwanto, Ir, M.T.",ELT625102,Fisika 2 C,3,1,0,PSTE
+,,EET620218,Material Elektroteknik A,2,1,0,PSTE
+,,EET620218,Material Elektroteknik B,2,1,0,PSTE
+,,EET620218,Material Elektroteknik C,2,1,0,PSTE
+,,EET620409,Desain Motor-Motor Listrik,2,1,0,PSTE
+,,EET620409,Desain Motor-Motor Listrik - MBKM,2,1,0,PSTE
+,,EET620414,Pembangkit Listrik Terbarukan,2,1,0,PSTE
+,,ELT625102,Fisika 2 A,3,1,0,PSTE
+,,ELT625102,Fisika 2 B,3,1,0,PSTE
+,,ELT625102,Fisika 2 D,3,1,0,PSTE
+,,EET620412,Proteksi dan Penggunaan Motor-Motor Listrik,2,1,0,PSTE
+,,EET620412,Proteksi dan Penggunaan Motor-Motor Listrik - MBKM,2,1,0,PSTE
+19,"Osea Zebua, S.T.,M.T.",EET620420,Stabilitas Transien Sistem Tenaga,2,1,0,PSTE
+,,ELT625104,Kalkulus  2 A,3,1,0,PSTE
+,,ELT625104,Kalkulus  2 B,3,1,0,PSTE
+,,ELT625104,Kalkulus  2 D,3,1,0,PSTE
+,,ELT625104,Kalkulus  2 C,3,1,0,PSTE
+,,ELT625102,Fisika 2 C,3,1,0,PSTE
+,,ELT625102,Fisika 2 A,3,1,0,PSTE
+,,ELT625102,Fisika 2 B,3,1,0,PSTE
+,,ELT625102,Fisika 2 D,3,1,0,PSTE
+20,"Dr. Sri Purwiyanti, S.T., M. T.",EET620439,Elektronika Biomedik,2,1,0,PSTE
+,,EET620336,Antarmuka dan Peripheral ,3,"1,5",0,PSTE
+,,EET620447,Logika Samar,2,1,0,PSTE
+,,EEC616492,Logika Samar-ST,2,1,0,PSTE
+,,EET620444,Divais Semikonduktor,2,1,0,PSTE
+,,EET620212,Metode Numerik B,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik D,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik A,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik C,2,"0,5",0,PSTE
+21,"Sri Ratna Sulistiyanti,Ir., M.T., Dr.",EET620329,Metodologi Penelitian Elkaken,2,1,0,PSTE
+,,EET620438,Mekatronika,2,1,0,PSTE
+,,EET620437,Perancangan Sistem Otomatik,2,1,0,PSTE
+22,"Sumadi, S.T., M.T.",EET620337,PLC A,3,1,0,PSTE
+,,EET620340,Teknik Optimasi,3,"1,5",0,PSTE
+,,EET620337,PLC B,3,1,0,PSTE
+,,EET620441,Sistem Cerdas,2,1,0,PSTE
+23,"Syaiful Alam,S.T., M.T.",EET620338,Sistem Tertanam,2,"0,6666666667",0,PSTE
+,,EEC616370,Embedded System - ST,3,1,0,PSTE
+,,EET620212,Metode Numerik D,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik B,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik A,2,"0,5",0,PSTE
+,,EET620212,Metode Numerik C,2,"0,5",0,PSTE
+24,"Umi Murdika, S.T, M.T.",EET620335,Prak. Sistem Kendali Lanjut ,1,0,1,PSTE
+,,EET620443,Otomasi Industri,2,1,0,
+,,EET620213,Sinyal dan Sistem C,3,1,0,
+,,EET620213,Sinyal dan Sistem B,3,1,0,
+,,EET620213,Sinyal dan Sistem A,3,1,0,
+,,EET620213,Sinyal dan Sistem D,3,1,0,PSTE
+25,"Yetti Yuniati, S.T., M.T.",EET620214,Dasar Sistem dan Jaringan Telekomunikasi A,3,"1,5",0,PSTE
+,,ELT625108,Probabilitas dan Statistik B,3,1,0,PSTE
+,,ELT625108,Probabilitas dan Statistik C,3,1,0,PSTE
+,,ELT625108,Probabilitas dan Statistik A,3,1,0,PSTE
+,,ELT625108,Probabilitas dan Statistik D,3,1,0,PSTE
+,,EET620214,Dasar Sistem dan Jaringan Telekomunikasi D,3,"1,5",0,PSTE
+,,EET620214,Dasar Sistem dan Jaringan Telekomunikasi C,3,"1,5",0,PSTE
+,,EET620464,Pembelajaran Mesin,2,2,0,PSTE
+,,EET620329,Metodologi Penelitian Telti,2,1,0,PSTE
+26,"Annisa Ulya Darajat, S.T., M.T.",EET620341,Komponen Sistem Kendali ,2,1,0,
+,,EET620340,Teknik Optimasi,3,"1,5",0,
+,,ELT625104,Kalkulus  2 A,3,1,0,
+,,ELT625104,Kalkulus  2 B,3,1,0,
+,,ELT625104,Kalkulus  2 D,3,1,0,
+,,ELT625104,Kalkulus  2 C,3,1,0,
+27,"Aryanto, S.T., M.T.",ELT625110,Algoritma dan Pemrograman D,3,"1,5",0,PSTE
+,,EET620342,Antena dan Propagasi,3,"1,5",0,PSTE
+,,ELT625110,Algoritma dan Pemrograman B,3,"1,5",0,PSTE
+,,ELT625110,Algoritma dan Pemrograman C,3,"1,5",0,PSTE
+,,ELT625110,Algoritma dan Pemrograman A,3,"1,5",0,PSTE
+,,EET620453,Perancangan dan Aplikasi Antena,2,1,0,PSTE
+,,EET620491,AI dan Perangkat IoT,2,1,0,PSTE
+,,EET620454,Virtualisasi dan Keamanan Jaringan,2,1,0,PSTE
+,,EET620465,Teknologi Multimedia,2,1,0,PSTE
+28,"Zulmiftah, S.T., M.T.",EET620330,Manajemen Proyek dan K3 D,2,1,0,
+,,EET620330,Manajemen Proyek dan K3 C,2,1,0,
+,,EET620330,Manajemen Proyek dan K3 B,2,1,0,
+,,EET620330,Manajemen Proyek dan K3 A,2,1,0,
+,,EET620216,Dasar Tenaga Listrik C,3,1,0,
+,,EET620216,Dasar Tenaga Listrik A,3,1,0,
+,,EET620414,Pembangkit Listrik Terbarukan,2,1,0,
+,,EET620216,Dasar Tenaga Listrik D,3,1,0,
+,,EET620216,Dasar Tenaga Listrik B,3,1,0,
+29,"Fadil Hamdani, S.T., M.T.",EET620214,Dasar Sistem dan Jaringan Telekomunikasi A,3,"1,5",0,
+,,EET620219,Medan Elektromagnetik Telekomunikasi,2,1,0,
+,,EET620214,Dasar Sistem dan Jaringan Telekomunikasi D,3,"1,5",0,
+,,EET620214,Dasar Sistem dan Jaringan Telekomunikasi B,3,"1,5",0,
+,,EET620214,Dasar Sistem dan Jaringan Telekomunikasi C,3,"1,5",0,
+,,EET620342,Pemodelan dan Simulasi Sistem Komunikasi,3,"1,5",0,
+30,"Ubaidah,S.T.,M.T.",EET620420,Stabilitas Transien Sistem Tenaga,2,1,0,
+,,EET620423,Keandalan Sistem Tenaga ,2,1,0,
+,,EET620423,Keandalan Sistem Tenaga - MBKM,2,1,0,
+,,EET620418,Smart Building dan otomasi,2,1,0,
+,,EET620418,Smart Building dan otomasi,2,1,0,
+,,ELT625102,Fisika 2 C,3,1,0,
+,,EET620211,Matematika Teknik 2 B,3,1,0,
+,,EET620211,Matematika Teknik 2 D,3,1,0,
+,,ELT625102,Fisika 2 A,3,1,0,
+,,EET620211,Matematika Teknik 2 A,3,1,0,
+,,ELT625102,Fisika 2 B,3,1,0,
+,,EET620211,Matematika Teknik 2 C,3,1,0,
+,,ELT625102,Fisika 2 D,3,1,0,
+31,"Muhammad Fikri, M.Eng",EET620441,Sistem Cerdas,2,1,0,
+,,EET620341,Komponen Sistem Kendali ,2,1,0,
+32,"Tiya Muthia, S.T., M.T.",EET620210,Pengetahuan Lingkungan B,2,"0,6666666667",0,
+,,EET620210,Pengetahuan Lingkungan A,2,"0,6666666667",0,
+,,EET620210,Pengetahuan Lingkungan C,2,"0,6666666667",0,
+,,EET620210,Pengetahuan Lingkungan D,2,"0,6666666667",0,
+,,EET620336,Antarmuka dan Peripheral ,3,"1,5",0,
+,,EET620447,Logika Samar,2,1,0,
+,,EEC616492,Logika Samar-ST,2,1,0,
+,,EET620442,Pengolahan Citra,2,1,0,
+,,EET620443,Otomasi Industri,2,1,0,
+,,EET620213,Sinyal dan Sistem C,3,1,0,
+,,EET620213,Sinyal dan Sistem B,3,1,0,
+,,EET620213,Sinyal dan Sistem A,3,1,0,
+,,EET620213,Sinyal dan Sistem D,3,1,0,
+33,"Muhammad Ifan Saputra, S.T.,M.T",EET620338,Sistem Tertanam,2,"0,6666666667",0,
+,,EET620439,Elektronika Biomedik,2,1,0,
+,,EET620438,Mekatronika,2,"1,5",0,
+,,EET620492,Elektronika Komunikasi,2,"1,5",0,
+,,EET620437,Perancangan Sistem Otomatik,2,"1,5",0,
+,,EET620444,Divais Semikonduktor,2,1,0,
+,,EEC616370,Embedded System - ST,3,1,0,PSTE
+,,EET620337,PLC A,3,1,0,
+,,EET620337,PLC B,3,1,0,
+34,"Fahrur Riza Priyana, S.T., M.T.",EET620337,PLC A,3,1,0,
+,,EET620337,PLC B,3,1,0,
+,,EET620419,Pemantauan dan Kendali Sistem Tenaga,2,1,0,
+,,EET620411,Sistem Transportasi Listrik,2,1,0,
+,,EET620412,Proteksi dan Penggunaan Motor-Motor Listrik,2,1,0,
+,,EET620412,Proteksi dan Penggunaan Motor-Motor Listrik - MBKM,2,1,0,
+,,EET620426,Aliran Daya Optimal dan Penerapannya,2,1,0,
+,,EET620216,Dasar Tenaga Listrik C,3,1,0,
+,,EET620216,Dasar Tenaga Listrik A,3,1,0,
+,,EET620216,Dasar Tenaga Listrik D,3,1,0,
+,,EET620216,Dasar Tenaga Listrik B,3,1,0,
+35,"Awansah, M.T.",EET620218,Material Elektroteknik A,2,1,0,
+,,EET620218,Material Elektroteknik B,2,1,0,
+,,EET620218,Material Elektroteknik C,2,1,0,
+,,EET620332,Sistem Isolasi B ,2,1,0,
+,,EET620332,Sistem Isolasi A ,2,1,0,
+,,EET620332,Sistem Isolasi - MBKM,2,1,0,
+,,EET620416,Tegangan Tinggi Arus Searah,2,1,0,
+,,EET620431,Pentanahan Sistem Tenaga,2,1,0,
+,,EET620433,Transmisi Daya Arus Searah,2,1,0,
+,,ELT625106,Matematika 2 A,3,1,0,
+,,ELT625106,Matematika 2 C,3,1,0,
+,,ELT625106,Matematika 2 D,3,1,0,
+,,ELT625106,Matematika 2 B,3,1,0,
+36,"Nadia Julian Putri, S.T., M.T.",EET620409,Desain Motor-Motor Listrik,2,1,0,
+,,EET620409,Desain Motor-Motor Listrik - MBKM,2,1,0,
+,,EET620217,Praktikum Dasar Tenaga Listrik A,1,0,"0,5",
+,,EET620217,Praktikum Dasar Tenaga Listrik B,1,0,"0,5",
+,,EET620217,Praktikum Dasar Tenaga Listrik C,1,0,"0,5",
+,,EET620417,Aplikasi Elektronika Daya Pada Kualitas Daya Listrik,2,1,0,
+,,EET620417,Aplikasi Elektronika Daya Pada Kualitas Daya Listrik - MBKM,2,1,0,
+,,EET620413,Pemodelan dan Simulasi Motor-Motor Listrik,2,1,0,

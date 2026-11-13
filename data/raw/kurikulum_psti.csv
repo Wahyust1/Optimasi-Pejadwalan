@@ -1,0 +1,152 @@
+Semester 1,,
+Kode,Mata Kuliah,SKS
+INF620101,Pengetahuan Lingkungan,2
+INF620102,Teknik Digital,3
+INF620103,Pengantar Teknologi Informasi,3
+INF620104,Algoritma dan Pemrograman,3
+INF620105,Kalkulus,2
+UNI620106,Pendidikan Bahasa Indonesia,2
+UNI620108,Pendidikan Pancasila,2
+UNI620109,Pendidikan Etika dan Kearifan Lokal,2
+INF620106,Industri Pertanian,2
+INF620107,Praktikum Algoritma dan Pemrograman,1
+Total,,22
+,,
+,,
+Semester 2,,
+Kode,Mata Kuliah,SKS
+INF620108,Probabilitas dan Statistik,3
+INF620109,Struktur Data,3
+INF620110,Bahasa Inggris,3
+INF620111,Logika,2
+UNI62010*,Pendidikan Agama*,3
+UNI620107,Pendidikan Kewarganegaraan,2
+INF620112,Praktikum Teknik Digital,1
+INF620113,Matematika Diskrit,3
+INF620114,Rekayasa Perangkat Lunak,2
+Total,,22
+,,
+,,
+Semester 3,,
+Kode,Mata Kuliah,SKS
+INF620201,Interaksi Manusia dan Komputer,3
+INF620202,Antarmuka dan Peripheral,3
+INF620203,Sistem Operasi,3
+INF620204,Praktikum Struktur Data,1
+INF620205,Sistem Basis Data,3
+INF620206,Sistem Informasi,2
+INF620207,Organisasi dan Arsitektur Komputer,3
+INF620208,Praktikum Sistem Operasi,1
+INF620209,Praktikum Rekayasa Perangkat Lunak,1
+Total,,20
+,,
+,,
+Semester 4,,
+Kode,Mata Kuliah,SKS
+INF620210,Jaringan Komputer,3
+INF620211,Embedded System,3
+INF620212,Teori Bahasa dan Automata,3
+INF620213,Pemrograman Berorientasi Objek,4
+INF620214,Praktikum Embedded System,1
+INF620215,Kecerdasan Buatan,3
+INF620216,Pemrograman Web,3
+INF620217,Praktikum Sistem Basis Data,1
+Total,,21
+,,
+,,
+Semester 5,,
+Kode,Mata Kuliah,SKS
+INF620301,Manajemen Proyek Teknologi Informasi,3
+INF620302,Etika Profesi,2
+INF620303,Keamanan Sistem Informasi,3
+INF620304,Pengolahan Citra,2
+INF620305,Praktikum Jaringan Komputer,1
+INF620306,Praktikum Pemrograman Web,1
+INF620307,Internet of Things,3
+Mata Kuliah Wajib Konsentrasi*,,6
+Total,,21
+,,
+Mata Kuliah Wajib Konsentrasi,,
+Rekayasa Perangkat Lunak,,
+Kode,Mata Kuliah,SKS
+INF620308,Analisa dan Perancangan Perangkat Lunak,2
+INF620309,Web Framework,2
+INF620310,Basis Data Lanjut,2
+Teknik Komputer,,
+Kode,Mata Kuliah,SKS
+INF620311,Metode Numerik,2
+INF620312,Mekatronika,2
+INF620313,Mikroelektronika,2
+Teknologi Informasi,,
+Kode,Mata Kuliah,SKS
+INF620314,Tata Kelola Teknologi Informasi,2
+INF620315,Jaringan Komputer Lanjut 1,2
+INF620316,Enterprise Architecture,2
+Sistem Cerdas,,
+Kode,Mata Kuliah,SKS
+INF620317,Machine Learning,2
+INF620318,Data Mining,2
+INF620319,Jaringan Syaraf Tiruan,2
+,,
+,,
+Semester 6,,
+Kode,Mata Kuliah,SKS
+INF620320,Metodologi Penelitian,2
+INF620321,Sistem Informasi Geografis,3
+INF620322,Praktikum Keamanan Sistem Informasi,1
+INF620323,Praktek Kerja Lapangan,3
+INF620324,Technopreneurship,3
+Mata Kuliah Wajib Konsentrasi*,,6
+Total,,18
+,,
+Mata Kuliah Wajib Konsentrasi,,
+Rekayasa Perangkat Lunak,,
+Kode,Mata Kuliah,SKS
+INF620325,Mobile Computing,2
+INF620326,Agile Software Development,2
+INF620327,Software Testing and Quality Assurance,2
+Teknik Komputer,,
+Kode,Mata Kuliah,SKS
+INF620328,Computer Vision,2
+INF620329,Pemodelan Simulasi,2
+INF620330,Sistem Kendali,2
+Teknologi Informasi,,
+Kode,Mata Kuliah,SKS
+INF620331,Virtualisasi dan Cloud Computing,2
+INF620332,Jaringan Komputer Lanjut 2,2
+INF620333,Big Data,2
+Sistem Cerdas,,
+Kode,Mata Kuliah,SKS
+INF620334,Sistem Penunjang Keputusan,2
+INF620335,Natural Language Processing,2
+INF620336,Deep Learning,2
+,,
+,,
+Semester 7,,
+Kode,Mata Kuliah,SKS
+INF620401,Kapita Selekta,2
+INF620402,Kuliah Kerja Nyata (KKN),3
+INF620403,Proyek Teknologi Informasi,3
+Total,,8
+,,
+,,
+Semester 8,,
+Kode,Mata Kuliah,SKS
+INF620403,Seminar Usul,1
+INF620404,Seminar Hasil,1
+INF620405,Skripsi,4
+Total,,6
+,,
+,,
+"Mata kuliah Pilihan (Semester 6, 7 & 8)",,
+Kode,Mata Kuliah,SKS
+INF620336,Audit Teknologi dan Informasi,2
+INF620337,E-Business,2
+INF620338,User Experience,2
+INF620339,Augmented Reality,2
+INF620340,Sistem Pakar,2
+INF620341,Penginderaan Jauh,2
+INF620342,Semantik Web,2
+INF620343,Hukum Cyber dan Kekayaan Intelektual,2
+INF620344,Virtual Reality,2
+INF620345,Pemrograman Fungsional,2

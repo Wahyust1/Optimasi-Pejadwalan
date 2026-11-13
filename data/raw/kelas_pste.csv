@@ -1,0 +1,142 @@
+No,Nama Kelas,SKS
+1,Algoritma dan Pemrograman A,3
+2,Algoritma dan Pemrograman B,3
+3,Algoritma dan Pemrograman C,3
+4,Algoritma dan Pemrograman D,3
+5,Antarmuka dan Peripheral,3
+6,Antena dan Propagasi,3
+7,Dasar Sistem dan Jaringan Telekomunikasi A,3
+8,Dasar Sistem dan Jaringan Telekomunikasi B,3
+9,Dasar Sistem dan Jaringan Telekomunikasi C,3
+10,Dasar Sistem dan Jaringan Telekomunikasi D,3
+11,Dasar Tenaga Listrik A,3
+12,Dasar Tenaga Listrik B,3
+13,Dasar Tenaga Listrik C,3
+14,Dasar Tenaga Listrik D,3
+15,Embedded System - ST,3
+16,Fisika 2 A,3
+17,Fisika 2 B,3
+18,Fisika 2 C,3
+19,Fisika 2 D,3
+
+21,Kalkulus 2 A,3
+22,Kalkulus 2 B,3
+23,Kalkulus 2 C,3
+24,Kalkulus 2 D,3
+25,Komunikasi Nirkabel,3
+26,Matematika 2 A,3
+27,Matematika 2 B,3
+28,Matematika 2 C,3
+29,Matematika 2 D,3
+30,Matematika Teknik 2 A,3
+31,Matematika Teknik 2 B,3
+32,Matematika Teknik 2 C,3
+33,Matematika Teknik 2 D,3
+34,Pemodelan dan Simulasi Sistem Komunikasi,3
+35,Pendidikan Agama Islam A,3
+36,Pendidikan Agama Islam B,3
+37,Pendidikan Agama Islam C,3
+38,Pendidikan Agama Islam D,3
+39,PLC A,3
+40,PLC B,3
+41,Probabilitas dan Statistik A,3
+42,Probabilitas dan Statistik B,3
+43,Probabilitas dan Statistik C,3
+44,Probabilitas dan Statistik D,3
+45,Sinyal dan Sistem A,3
+46,Sinyal dan Sistem B,3
+47,Sinyal dan Sistem C,3
+48,Sinyal dan Sistem D,3
+49,Sistem Proteksi - MBKM,3
+50,Sistem Proteksi A,3
+51,Sistem Proteksi B,3
+52,Teknik Optimasi,3
+53,Teknologi dan Komunikasi Data Broadband,3
+54,AI dan Perangkat IoT,2
+55,Aliran Daya Optimal dan Penerapannya,2
+56,Aplikasi Elektronika Daya Pada Kualitas Daya Listrik,2
+57,Aplikasi Elektronika Daya Pada Kualitas Daya Listrik-MBKM,2
+58,Bahan Isolasi Ramah Lingkungan,2
+59,Bahan Isolasi Ramah Lingkungan - MBKM,2
+60,Desain Motor-Motor Listrik,2
+61,Desain Motor-Motor Listrik - MBKM,2
+62,Elektronika Biomedik,2
+63,Elektronika Komunikasi,2
+64,Keandalan Sistem Tenaga,2
+65,Keandalan Sistem Tenaga - MBKM,2
+66,Kendali dan Stabilitas Motor Listrik - MBKM,2
+67,Kendali dan Stabilitas Motor Listrik A,2
+68,Kendali dan Stabilitas Motor Listrik B,2
+69,Kesesuaian Medan Elektromagnetik,2
+70,Komponen Sistem Kendali,2
+71,Koordinasi Isolasi - MBKM,2
+72,Koordinasi Isolasi A,2
+73,Koordinasi Isolasi B,2
+74,Logika Samar,2
+75,Logika Samar-ST,2
+76,Manajemen Proyek dan K3 A,2
+77,Manajemen Proyek dan K3 B,2
+78,Manajemen Proyek dan K3 C,2
+79,Manajemen Proyek dan K3 D,2
+80,Material Elektroteknik A,2
+81,Material Elektroteknik B,2
+82,Material Elektroteknik C,2
+83,Medan Elektromagnetik Telekomunikasi,2
+84,Mekatronika,2
+85,Metode Numerik A,2
+86,Metode Numerik B,2
+87,Metode Numerik C,2
+88,Metode Numerik D,2
+89,Metodologi Penelitian Elkaken,2
+90,Metodologi Penelitian Telti,2
+91,Metodologi Penelitian TTL - MBKM,2
+92,Metodologi Penelitian TTL A,2
+93,Metodologi Penelitian TTL B,2
+94,Otomasi Industri,2
+95,Pemantauan dan Kendali Sistem Tenaga,2
+96,Pembangkit Listrik Terbarukan,2
+97,Pembelajaran Mesin,2
+98,Pendidikan Kewarganegaraan TE A,2
+99,Pendidikan Kewarganegaraan TE B,2
+100,Pendidikan Kewarganegaraan TE C,2
+101,Pendidikan Kewarganegaraan TE D,2
+102,Pengetahuan Lingkungan A,2
+103,Pengetahuan Lingkungan B,2
+104,Pengetahuan Lingkungan C,2
+105,Pengetahuan Lingkungan D,2
+106,Pengolahan Citra,2
+107,Pentanahan Sistem Tenaga,2
+108,Pentanahan Sistem Tenaga-MBKM,2
+109,Perancangan Kendali Motor-Motor Listrik Berbasis FPGA,2
+110,Perancangan Konverter Elektronika Daya,2
+111,Perancangan Konverter Elektronika Daya -MBKM,2
+112,Perancangan Sistem Otomatik,2
+113,Perencanaan Pengembangan Sistem Tenaga,2
+114,Perencanaan Pengembangan Sistem Tenaga-MBKM,2
+115,Proteksi dan Penggunaan Motor-Motor Listrik,2
+116,Proteksi dan Penggunaan Motor-Motor Listrik - MBKM,2
+117,Sistem Cerdas,2
+118,Sistem Isolasi - MBKM,2
+119,Sistem Isolasi A,2
+120,Sistem Isolasi B,2
+121,Sistem Penginderaan Jauh,2
+122,Sistem Tertanam,2
+123,Sistem Transportasi Listrik,2
+124,Smart Building dan Otomasi,2
+125,Smart Building dan Otomasi-MBKM,2
+126,Softswitch,2
+127,Stabilitas Transien Sistem Tenaga,2
+128,Tegangan Tinggi Arus Searah,2
+129,Teknologi Multimedia,2
+130,Teknologi Radar,2
+131,Virtualisasi dan Keamanan Jaringan,2
+132,Prak. Sistem Kendali Lanjut,1
+133,Prak. Sistem Tertanam,1
+134,Praktikum Dasar Sistem dan Jaringan Telekomunikasi A,1
+135,Praktikum Dasar Sistem dan Jaringan Telekomunikasi B,1
+136,Praktikum Dasar Sistem dan Jaringan Telekomunikasi C,1
+137,Praktikum Dasar Tenaga Listrik A,1
+138,Praktikum Dasar Tenaga Listrik B,1
+139,Praktikum Dasar Tenaga Listrik C,1
+140,Praktikum Jaringan Telekomunikasi,1
+,Total SKS,324

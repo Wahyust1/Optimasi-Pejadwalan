@@ -1,0 +1,104 @@
+No,Nama Kelas,SKS
+1,Pemrograman Berorientasi Objek A,4
+2,Pemrograman Berorientasi Objek B,4
+3,Pemrograman Berorientasi Objek C,4
+4,Pemrograman Berorientasi Objek D,4
+5,Bahasa Inggris,3
+6,Embedded System A,3
+7,Embedded System B,3
+8,Embedded System C,3
+9,Embedded System D,3
+10,Jaringan Komputer A,3
+11,Jaringan Komputer B,3
+12,Jaringan Komputer C,3
+13,Jaringan Komputer D,3
+14,Kecerdasan Buatan A,3
+15,Kecerdasan Buatan B,3
+16,Kecerdasan Buatan C,3
+17,Kecerdasan Buatan D,3
+18,Matematika Diskrit A,3
+19,Matematika Diskrit B,3
+20,Matematika Diskrit C,3
+21,Matematika Diskrit D,3
+22,Pemrograman Web A,3
+23,Pemrograman Web B,3
+24,Pemrograman Web C,3
+25,Pemrograman Web D,3
+26,Pendidikan Agama Islam A,3
+27,Pendidikan Agama Islam B,3
+28,Pendidikan Agama Islam C,3
+29,Pendidikan Agama Islam D,3
+30,Rekayasa Perangkat Lunak A,3
+31,Rekayasa Perangkat Lunak B,3
+32,Rekayasa Perangkat Lunak C,3
+33,Rekayasa Perangkat Lunak D,3
+34,Sistem Informasi Geografis A,3
+35,Sistem Informasi Geografis B,3
+36,Sistem Informasi Geografis C,3
+37,Struktur Data A,3
+38,Struktur Data B,3
+39,Struktur Data C,3
+40,Struktur Data D,3
+41,Technopreneurship A,3
+42,Technopreneurship B,3
+43,Technopreneurship C,3
+44,Teori Bahasa Dan Automata A,3
+45,Teori Bahasa Dan Automata B,3
+46,Teori Bahasa Dan Automata C,3
+47,Teori Bahasa Dan Automata D,3
+48,Agile Software Development A,2
+49,Agile Software Development B,2
+50,Aljabar Matriks A,2
+51,Aljabar Matriks B,2
+52,Aljabar Matriks C,2
+53,Aljabar Matriks D,2
+54,Audit Teknologi Dan Informasi,2
+55,Augmented Reality A,2
+56,Augmented Reality B,2
+57,Big Data,2
+58,Computer Vision,2
+59,Deep Learning,2
+60,E-Business A,2
+61,E-Business B,2
+62,Hukum Cyber Dan Kekayaan Intelektual,2
+63,Jaringan Komputer Lanjut 2,2
+64,Logika,2
+65,Metodologi Penelitian A,2
+66,Metodologi Penelitian B,2
+67,Metodologi Penelitian C,2
+68,Mobile Computing A,2
+69,Mobile Computing B,2
+70,Natural Language Processing,2
+71,Pemrograman Fungsional,2
+72,Pendidikan Kewarganegaraan TI A,2
+73,Pendidikan Kewarganegaraan TI B,2
+74,Pendidikan Kewarganegaraan TI C,2
+75,Pendidikan Kewarganegaraan TI D,2
+76,Pengetahuan Lingkungan C,2
+77,Pengetahuan Lingkungan A,2
+78,Pengetahuan Lingkungan B,2
+79,Pengetahuan Lingkungan D,2
+80,Semantik Web,2
+81,Sistem Pakar,2
+82,Sistem Penunjang Keputusan,2
+83,Software Testing And Quality Assurance A,2
+84,Software Testing And Quality Assurance B,2
+85,User Experience A,2
+86,User Experience B,2
+87,Virtualisasi Dan Cloud Computing,2
+88,Praktikum Embedded System A,1
+89,Praktikum Embedded System B,1
+90,Praktikum Embedded System C,1
+91,Praktikum Keamanan Sistem Informasi A,1
+92,Praktikum Keamanan Sistem Informasi B,1
+93,Praktikum Keamanan Sistem Informasi C,1
+94,Praktikum Rekayasa Perangkat Lunak A,1
+95,Praktikum Rekayasa Perangkat Lunak B,1
+96,Praktikum Rekayasa Perangkat Lunak C,1
+97,Praktikum Sistem Basis Data A,1
+98,Praktikum Sistem Basis Data B,1
+99,Praktikum Sistem Basis Data C,1
+100,Praktikum Struktur Data A,1
+101,Praktikum Struktur Data B,1
+102,Praktikum Struktur Data C,1
+,Total SKS,240
